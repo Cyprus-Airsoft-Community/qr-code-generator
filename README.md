@@ -24,5 +24,5 @@ python -m pip install -r requirements.txt
 
 python cac-qr-code.py
 
-
+<hr><br><br>
 <p><a href="https://ko-fi.com/gpsevdiotis"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="48" width="200" alt="gpsevdiotis" /></a></p>
